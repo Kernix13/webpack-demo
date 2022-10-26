@@ -1,0 +1,20 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "How to configure Webpack for your projects",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "keywords": [
+    "Webpack",
+    "components",
+    "modules"
+  ],
+  "author": "Jim Kernicky",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
