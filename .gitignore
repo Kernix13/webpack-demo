@@ -3,3 +3,6 @@ node_modules
 
 # Production and other folders
 /dist
+
+# Personal files
+NOTES.md
