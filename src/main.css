@@ -1,0 +1,8 @@
+body {
+  background-color: rgba(128, 0, 128, 0.5);
+}
+
+img {
+  display: inline-block;
+  margin-top: 1rem;
+}
