@@ -264,3 +264,9 @@ plugins: [new MiniCssExtractPlugin({filename: [name].[contenthash].css}), new Cl
 - terser-webpack-plugin is needed for JS because of using the above plugin
 
 > NEED A DAMN RECENT SERIES ON HOW TO USE WEBPACK!!!!!!!!!!
+
+The last thing he mentioned is important, not verbatim but:
+
+> "...companies that use Webpack already have it configured and it hardly changes so you won't need to d much with it."
+
+So I'm wasting my time because it's not a likely job requirement - **Use Parcel**!
